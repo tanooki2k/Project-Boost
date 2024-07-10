@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 946663183837916797}
   - component: {fileID: 946663183837916798}
   - component: {fileID: 1391655786440283666}
-  - component: {fileID: -3798840417622891515}
+  - component: {fileID: -6736304616007382673}
   m_Layer: 0
   m_Name: Particle
   m_TagString: Untagged
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 85679cb2e8dfb554c8bcc2c6a2244e24, type: 2}
+  - {fileID: 2100000, guid: a648946e4dedd294dbf0decb70b384a7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -110,11 +110,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementVector: {x: 0, y: 9, z: 0}
-  period: 10
+  period: 8
   phase: 0
   initialX: 9.5
-  numberOfWaves: 0.3534261
---- !u!114 &-3798840417622891515
+  numberOfWaves: 0.3239739
+--- !u!114 &-6736304616007382673
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -126,8 +126,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3362e0ccb808f344bf0fb513326cd46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementVector: {x: 7, y: 0, z: 0}
-  period: 10
+  movementVector: {x: 9, y: 0, z: 0}
+  period: 8
   phase: 0
   initialX: 9.5
-  numberOfWaves: 0.3534261
+  numberOfWaves: 0.3239739

@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Over.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Fly over Branchs.unity
+    path: Assets/Scenes/Over Sine.unity
+    guid: ddc1d75a7e479b1428cb16248cfd436f
+  - enabled: 1
+    path: Assets/Scenes/0ver Branchs.unity
     guid: f3d90fe842050f94da656d521f715a93
   - enabled: 0
     path: Assets/Scenes/Test.unity
