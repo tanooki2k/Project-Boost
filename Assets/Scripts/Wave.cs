@@ -23,7 +23,7 @@ public class Wave : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (period <= Mathf.Epsilon) { return; }
+        if (period == 0) { return; }
         
         float cycles = Time.time / period; // Continually growing over time
         

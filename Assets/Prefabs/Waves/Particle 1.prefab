@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8624027602777873024}
   - component: {fileID: 8624027602777873027}
   - component: {fileID: 7628444518438118127}
-  - component: {fileID: 2498784094949701225}
+  - component: {fileID: 2571089535449309110}
   m_Layer: 0
   m_Name: Particle 1
   m_TagString: Untagged
@@ -114,7 +114,7 @@ MonoBehaviour:
   phase: 3.1415927
   initialX: 9.5
   numberOfWaves: 0.3239739
---- !u!114 &2498784094949701225
+--- !u!114 &2571089535449309110
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

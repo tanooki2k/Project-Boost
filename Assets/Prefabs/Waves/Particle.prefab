@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 946663183837916796}
   - component: {fileID: 946663183837916797}
   - component: {fileID: 946663183837916798}
-  - component: {fileID: 1391655786440283666}
   - component: {fileID: -6736304616007382673}
+  - component: {fileID: -6790294818169844209}
   m_Layer: 0
   m_Name: Particle
   m_TagString: Untagged
@@ -97,7 +97,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1391655786440283666
+--- !u!114 &-6736304616007382673
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -114,7 +114,7 @@ MonoBehaviour:
   phase: 0
   initialX: 9.5
   numberOfWaves: 0.3239739
---- !u!114 &-6736304616007382673
+--- !u!114 &-6790294818169844209
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

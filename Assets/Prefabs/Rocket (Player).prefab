@@ -392,6 +392,7 @@ GameObject:
   - component: {fileID: 1563532950478734280}
   - component: {fileID: 3260166158558150975}
   - component: {fileID: 3895523718178700360}
+  - component: {fileID: 8096726958305294240}
   - component: {fileID: 1563532950478734285}
   - component: {fileID: 432000863}
   m_Layer: 0
@@ -471,6 +472,18 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: 977b16833cae00348a9babcc3d16fc9a, type: 3}
   successParticles: {fileID: 5373042728329059616}
   crashParticles: {fileID: 201797769356369852}
+--- !u!114 &8096726958305294240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563532950478734284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dd9405a7507224439b21603809f16f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!54 &1563532950478734285
 Rigidbody:
   m_ObjectHideFlags: 0
