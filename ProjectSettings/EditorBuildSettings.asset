@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Over.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/Scenes/Circles Maze.unity
+    guid: 589e00bdffc149848863591caa33557d
+  - enabled: 1
     path: Assets/Scenes/Over Sine.unity
     guid: ddc1d75a7e479b1428cb16248cfd436f
   - enabled: 1

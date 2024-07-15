@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 85679cb2e8dfb554c8bcc2c6a2244e24, type: 2}
+  - {fileID: 2100000, guid: ee89166369650174cbddfdcea3472a38, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -109,6 +109,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   magnitude: 7
-  period: -0.5
-  phase: 0
-  centerPosition: {x: 18, y: 4.45}
+  period: -1
+  phase: 0.785398
+  centerPosition: {x: 18.75, y: 4.45}
